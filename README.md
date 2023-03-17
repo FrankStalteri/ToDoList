@@ -1,2 +1,2 @@
 # ToDoList
-#Built using HTML, CSS, Node JS, and Bootstrap.
+#Built using HTML, CSS, Node JS, EJS, and Bootstrap.
